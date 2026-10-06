@@ -63,17 +63,6 @@ APIs, interface, and deployment.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miki-b&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miki-b&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-behailu-20ab05287/)
